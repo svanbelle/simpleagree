@@ -1,0 +1,1 @@
+ This shiny application determines different agreement indexes for binary scale when two or more raters are involved. This is possible in the frequentist and the Bayesian frameworks. 
