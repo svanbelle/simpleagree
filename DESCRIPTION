@@ -1,0 +1,10 @@
+
+Type: Shiny
+Title: Agreement for binary scales
+Version: 0.1.0
+Author: Sophie Vanbelle
+Maintainer: Sophie Vanbelle <sophie.Vanbelle@maastrichtuniversity.nl>
+Description: This shiny app proposes various simple agreement indexes when two or more raters classify subjects on a binary scale. 
+License: GPL-3
+Encoding: UTF-8
+

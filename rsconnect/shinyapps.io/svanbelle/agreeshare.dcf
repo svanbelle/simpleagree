@@ -1,0 +1,11 @@
+name: agreeshare
+title: agreeshare
+username:
+account: svanbelle
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8840464
+bundleId: 7819186
+url: https://svanbelle.shinyapps.io/agreeshare/
+asMultiple: FALSE
+asStatic: FALSE
